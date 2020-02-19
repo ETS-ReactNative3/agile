@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-1. Clone this repo, `git clone https://github.com/ashalbulk/agile-test.git`
+1. Clone this repo, `git clone https://github.com/ashalbulk/agile.git`
 2. Go to project's root directory, `cd agile-test`
 3. Run `yarn` or `npm install` to install dependencies
 4. Start the packager with `yarn start` or `npm start`
