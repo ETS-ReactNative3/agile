@@ -12,7 +12,7 @@
 ## Getting Started
 
 1. Clone this repo, `git clone https://github.com/ashalbulk/agile.git`
-2. Go to project's root directory, `cd agile-test`
+2. Go to project's root directory, `cd agile`
 3. Run `yarn` or `npm install` to install dependencies
 4. Start the packager with `yarn start` or `npm start`
 5. Connect a mobile device to your development machine
